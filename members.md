@@ -1,6 +1,6 @@
 # Member List
 
-_*Playtesters are in italics*_
+*Playtesters are in italics*
 
 Zsolt Miklos Bartha Zitting - Yellowberry
 
